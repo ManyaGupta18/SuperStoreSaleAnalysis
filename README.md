@@ -79,6 +79,28 @@ SuperStoreSaleAnalysis/
 
 ---
 
+## 🖼️ Screenshots
+
+Below are some sample visuals from the dashboards:
+
+### 📌 Excel Dashboard
+
+![Excel Dashboard]!<img width="920" height="565" alt="image" src="https://github.com/user-attachments/assets/964a387a-5442-4239-aeb4-f672d00079b8" />
+<img width="847" height="545" alt="image" src="https://github.com/user-attachments/assets/cf750838-11fa-4e26-9bca-eae20c207f72" />
+
+
+
+### 📌 Tableau Dashboard
+
+![Tableau Dashboard]<img width="929" height="631" alt="image" src="https://github.com/user-attachments/assets/2f14ca07-4138-492a-af95-cd6a49b3b57b" />
+<img width="851" height="641" alt="image" src="https://github.com/user-attachments/assets/8cc73067-a3a3-4452-9cec-a32feff4e142" />
+<img width="897" height="311" alt="image" src="https://github.com/user-attachments/assets/aec328b2-52f2-4ceb-96ae-04770ae1d469" />
+
+
+
+
+---
+
 ## 🛠 How to Explore
 
 1. **SQL folder**: Run the scripts to load and transform sample data tables.
